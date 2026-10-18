@@ -1,4 +1,4 @@
 return {
     ["usbhsnbsosb"] = true,
-    [""] = true,
+    ["Baconfedidobanido"] = true,
 }
