@@ -1,5 +1,5 @@
 return {
-    [""] = true,
+    ["usbhsnbsosb"] = true,
     ["Baconfedidobanido"] = true,
     ["eobli7"] = true,
     ["Gxstavo7Game100"] = true,
