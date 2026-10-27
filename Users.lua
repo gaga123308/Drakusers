@@ -7,3 +7,5 @@ return {
 }
 
 ["test"] = true,
+
+["trep"] = true,
