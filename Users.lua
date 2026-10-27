@@ -5,3 +5,5 @@ return {
     ["Baconfedidobanido"] = true,
     ["fofinho_FOFO48"] = true,
 }
+
+["test"] = true,
