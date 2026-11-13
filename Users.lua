@@ -1,7 +1,5 @@
 return {
-    ["usbhsnbsosb"] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
-    [""] = true,
+    ["usbhsnbsosb"] = "Perm",
+    ["NomeDoUsuario2"] = "Sem data",
+    ["OutroUsuario"] = "Sem data",
 }
