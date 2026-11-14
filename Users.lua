@@ -1,5 +1,5 @@
 return {
-    [""] = "Sem data",
+    ["usbhsnbsosb"] = "Perm",
     ["NomeDoUsuario2"] = "Sem data",
     ["OutroUsuario"] = "Sem data",
 }
