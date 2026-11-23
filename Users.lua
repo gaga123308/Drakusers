@@ -1,5 +1,5 @@
 return {
     ["usbhsnbsosb"] = "Perm",
-    ["NomeDoUsuario2"] = "Sem data",
+    ["MMV_HAckeR2"] = "Perm",
     ["OutroUsuario"] = "Sem data",
 }
